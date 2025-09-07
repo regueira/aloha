@@ -36,3 +36,5 @@ Thumbs.db
 dist/
 build/
 target/
+aloha-cdk
+lambda/email-processor/bootstrap
